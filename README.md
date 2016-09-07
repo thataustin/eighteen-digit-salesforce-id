@@ -1,7 +1,7 @@
 # eighteen-digit-salesforce-id
 
 ```js
-npm install eighteen-digit-salesforce-id
+npm install --save eighteen-digit-salesforce-id
 ```
 ```js
 var get18DigitId = require('eighteen-digit-salesforce-id');
