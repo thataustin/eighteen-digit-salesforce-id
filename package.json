@@ -1,0 +1,11 @@
+{
+  "name": "eighteen-digit-salesforce-id",
+  "version": "1.0.0",
+  "description": "Pass in either 18 digit or 15 digit Salesforce id and get back the 18 digit id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thataustin@gmail.com",
+  "license": "ISC"
+}
